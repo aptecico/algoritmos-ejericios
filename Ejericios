@@ -28,4 +28,96 @@ LA SUCESIÓN DE FIBONACCI
 
 /* * Escribe un programa que se encargue de comprobar si un número es o no primo. * Hecho esto, imprime los números primos entre 1 y 100. */
 
----------------------------------
+==============================================================================================================
+-----------------------Ejericcios de entraga-------------------------------
+==============================================================================================================
+1) Suma de números positivos
+
+Solicita al usuario ingresar 10 números.
+
+Usa un ciclo para leerlos y una condición para:
+
+sumar solo los números positivos
+ignorar los negativos y ceros
+
+Al final mostrar la suma total.
+
+Ejemplo:
+
+Suma de positivos: 45
+2) Contador de notas aprobadas y reprobadas
+
+Pide al usuario ingresar 5 notas.
+
+Por cada nota:
+
+si la nota es mayor o igual a 3.0 → aprobada
+si es menor a 3.0 → reprobada
+
+Al final mostrar:
+
+total aprobadas
+total reprobadas
+promedio general
+
+Ejemplo:
+
+Aprobadas: 3
+Reprobadas: 2
+Promedio: 3.4
+3) Mostrar números primos del 1 al 50
+
+Usa ciclos anidados y condicionales para mostrar todos los números primos del 1 al 50.
+
+Ejemplo de salida:
+
+2
+3
+5
+7
+11
+13
+...
+47
+4) Menú interactivo hasta salir
+
+Crea un menú que se repita hasta que el usuario elija salir.
+
+1. Saludar
+2. Mostrar mensaje
+3. Salir
+
+Si el usuario ingresa una opción inválida, mostrar:
+Opción no válida
+
+Usa while o do while.
+
+5) Adivinar el número
+
+Define un número secreto, por ejemplo 18.
+
+Pide al usuario intentar adivinarlo.
+
+Mientras no acierte:
+
+si es mayor → mostrar Muy alto
+si es menor → mostrar Muy bajo
+
+Cuando acierte, terminar.
+
+6) Cajero automático básico
+
+Saldo inicial: 150000
+
+Menú:
+
+1. Consultar saldo
+2. Retirar dinero
+3. Depositar dinero
+4. Salir
+
+Condiciones:
+
+no permitir retirar más del saldo
+no permitir valores negativos
+repetir menú hasta salir
